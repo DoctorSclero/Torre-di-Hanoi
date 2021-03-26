@@ -15,6 +15,6 @@ void moveTower(unsigned int tower_height, unsigned int dest, unsigned int arr) {
 
 int main() {
     int tower_height = 3;
-    cout << "Calcolo delle mosse per la torre di Hanoi\n";
+    cout << "Calcolo delle mosse per la torre di Hanoi x diego\n";
     moveTower(tower_height, 1, 3);
 }
